@@ -1,26 +1,3 @@
-
-  
-  
-    
-    
-      
-      
-        
-        
-        
-        
-        
-          
-          
-          
-        
-        
-        
-      
-      
-    
-  
-
 <!DOCTYPE html>
 <html lang="ko-kr">
   <head>
@@ -36,10 +13,10 @@
 
 <meta property="og:description" content="">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Categories">
-<meta name="twitter:title" content="Categories">
-<meta property="og:url" content="https://choongyul.github.io/categories/">
-<meta property="twitter:url" content="https://choongyul.github.io/categories/">
+<meta property="og:title" content="Submodule">
+<meta name="twitter:title" content="Submodule">
+<meta property="og:url" content="https://choongyul.github.io/tags/submodule/">
+<meta property="twitter:url" content="https://choongyul.github.io/tags/submodule/">
 <meta property="og:site_name" content="나의 경험을 기록하는 공간">
 <meta property="og:description" content="">
 <meta name="twitter:description" content="">
@@ -62,16 +39,16 @@
   <meta property="twitter:image" content="https://avatars0.githubusercontent.com/u/29845065?s=460&u=b6cde71a87702f8f19dfb8ae1f6dd352b420fce6&v=4">
 
 
-    <title>Categories</title>
+    <title>Submodule</title>
 
     <link rel="icon" href="favicon/favicon.png">
     
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://choongyul.github.io/categories/index.xml">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://choongyul.github.io/tags/submodule/index.xml">
     
 
     
 
-    <link rel="canonical" href="https://choongyul.github.io/categories/">
+    <link rel="canonical" href="https://choongyul.github.io/tags/submodule/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
@@ -210,55 +187,80 @@
 </nav>
 
       
+        
 
+      
       <div id="main" data-behavior="2"
         class="
                hasCoverMetaIn
                ">
+        
+          <section class="postShorten-group main-content-wrap">
+            
+            
+              
+  
+    
+      
+        
+      
+    
+  
 
-        <div id="categories-archives" class="main-content-wrap">
-          <form id="filter-form" action="##">
-            <input name="category" type="text" class="form-control input--xlarge"
-                   placeholder="Search category" autofocus="autofocus">
-          </form>
-          <h5 class="archive-result text-color-base text-xlarge"
-              data-message-zero="no category found"
-              data-message-one="1 cartegory found"
-              data-message-other="{n} categories found"></h5>
-          <section class="boxes">
-            
-              
-                
-                <div>
-                  <a href="#posts-list-git" class="category-anchor" data-category="Git" data-parent-categories="">Git</a>
-                  
-                </div>
-              
-            
-          </section>
-          <section class="boxes">
-            
-              
-                
-                <div id="posts-list-git" class="archive box" data-category="Git" data-parent-categories="" style="display: block;">
-                  <h4 class="archive-title text-xlarge">
-                    <a class="link-unstyled" href="git">Git (1)</a>
-                  </h4>
-                  <ul class="archive-posts">
-                    
-                      <li class="archive-post">
-                        <a class="archive-post-title" href="https://choongyul.github.io/2020/09/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EB%A8%B8-%EB%B0%B0%EC%9A%B4-submodule/">블로그 만들머 배운 Submodule</a><span class="archive-post-date"> - 
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://choongyul.github.io/2020/09/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EB%A8%B8-%EB%B0%B0%EC%9A%B4-submodule/">
+          블로그 만들머 배운 Submodule
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2020-09-21T06:06:15&#43;09:00">
+        
   September 21, 2020
-</span>
-                      </li>
-                    
-                    
-                  </ul>
-                </div>
-              
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://choongyul.github.io/categories/git">Git</a>
+    
+  
+
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      
+        들어가며 블로그를 만들기 위해 HUGO Quick-Start 가이드를 보는데
+git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke 이 보인다. ‘엥’ 이건 뭥미? Submodule이 뭐 하는 건지 살펴보자!
+Submodule 이란 뭘까? Submodule 이란, Dependency 관리 시스템이라 생각해도 좋을 것 같다.
+이렇게 가정해보자! 당신은 데이터 베이스를 사용하는 웹 애플리케이션을 제작해야 한다. 당신은 데이터베이스와 어떻게 연결할 것인가? 연결을 위해 Maven 프로젝트를 만들고 필요한 Repository와 Dependency를 pom.xml에 추가하려고 마음먹었다. 근데 문제가 발생했다. 연결이 되지 않는다. 연결 라이브러리 소스코드를 수정해야 할 것 같다.
+      
+      <p>
+        <a href="https://choongyul.github.io/2020/09/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EB%A8%B8-%EB%B0%B0%EC%9A%B4-submodule/" class="postShorten-excerpt_link link">Continue reading</a>
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
             
+            
+
           </section>
-        </div>
+        
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
     &copy; 2020 ChoongYul Lee. All Rights Reserved
@@ -267,6 +269,7 @@
 
       </div>
     </div>
+    
     <div id="about">
   <div id="about-card">
     <div id="about-btn-close">
@@ -297,6 +300,8 @@
 </div>
 
     
+
+    
   
     
       <div id="cover" style="background-image:url('https://choongyul.github.io/images/cover.jpg');"></div>
@@ -304,8 +309,7 @@
   
 
 
-  </body>
-  
+    
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
@@ -347,4 +351,7 @@ $(document).ready(function() {
 
 
 
+    
+  </body>
 </html>
+

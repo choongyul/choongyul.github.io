@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>나의 경험을 기록하는 공간</title>
-    <link>https://choongyul.github.io/</link>
-    <description>Recent content on 나의 경험을 기록하는 공간</description>
+    <title>Git on 나의 경험을 기록하는 공간</title>
+    <link>https://choongyul.github.io/tags/git/</link>
+    <description>Recent content in Git on 나의 경험을 기록하는 공간</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Mon, 21 Sep 2020 06:06:15 +0900</lastBuildDate>
     
-	<atom:link href="https://choongyul.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://choongyul.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
