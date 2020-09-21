@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIL on 나의 경험을 기록하는 공간</title>
+    <link>https://choongyul.github.io/categories/til/</link>
+    <description>Recent content in TIL on 나의 경험을 기록하는 공간</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 22 Sep 2020 06:00:15 +0900</lastBuildDate>
+    
+	<atom:link href="https://choongyul.github.io/categories/til/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>프로그래밍이란?</title>
+      <link>https://choongyul.github.io/2020/09/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80/</link>
+      <pubDate>Tue, 22 Sep 2020 06:00:15 +0900</pubDate>
+      
+      <guid>https://choongyul.github.io/2020/09/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80/</guid>
+      <description>컴퓨터  컴퓨터는 프로그램 언어로 기술된 수학적 계산, 논리적 연산을 수행하는 기계이다.  프로그래밍이란?  특정한 결과를 얻기 위해 프로그램을 기획하고 만드는 일이다. 문제를 분석하고, 알고리즘을 만들고 검증하고 구현하는 일과 관련되어 있다.  개발자와 사용자  둘은 관심 분야가 다르다.  개발자 관심  사용자가 어떤 기능을 원하는지? 사용자는 어떤 순서로 주어진 기능을 수행하는지? 프로그램 성능의 기준값은 무엇인지? 실행환경에 특이점은 없는지?  사용자 관심  개발된 기능이 나의 Pain Point를 해결해 줄수 있는지?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content in Categories on 나의 경험을 기록하는 공간</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 21 Sep 2020 06:06:15 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 06:00:15 +0900</lastBuildDate>
     
 	<atom:link href="https://choongyul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programming</title>
+      <link>https://choongyul.github.io/categories/programming/</link>
+      <pubDate>Tue, 22 Sep 2020 06:00:15 +0900</pubDate>
+      
+      <guid>https://choongyul.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIL</title>
+      <link>https://choongyul.github.io/categories/til/</link>
+      <pubDate>Tue, 22 Sep 2020 06:00:15 +0900</pubDate>
+      
+      <guid>https://choongyul.github.io/categories/til/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Git</title>
