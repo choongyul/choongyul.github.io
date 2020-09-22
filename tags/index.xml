@@ -6,15 +6,24 @@
     <description>Recent content in Tags on 나의 경험을 기록하는 공간</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 22 Sep 2020 06:00:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 06:53:55 +0900</lastBuildDate>
     
 	<atom:link href="https://choongyul.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Language</title>
+      <link>https://choongyul.github.io/tags/language/</link>
+      <pubDate>Wed, 23 Sep 2020 06:53:55 +0900</pubDate>
+      
+      <guid>https://choongyul.github.io/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>https://choongyul.github.io/tags/programming/</link>
-      <pubDate>Tue, 22 Sep 2020 06:00:15 +0900</pubDate>
+      <pubDate>Wed, 23 Sep 2020 06:53:55 +0900</pubDate>
       
       <guid>https://choongyul.github.io/tags/programming/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>TIL</title>
       <link>https://choongyul.github.io/tags/til/</link>
-      <pubDate>Tue, 22 Sep 2020 06:00:15 +0900</pubDate>
+      <pubDate>Wed, 23 Sep 2020 06:53:55 +0900</pubDate>
       
       <guid>https://choongyul.github.io/tags/til/</guid>
       <description></description>
