@@ -6,10 +6,19 @@
     <description>Recent content in Language on 나의 경험을 기록하는 공간</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 23 Sep 2020 06:53:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 06:27:11 +0900</lastBuildDate>
     
 	<atom:link href="https://choongyul.github.io/tags/language/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>프로그래밍 언어론 - Day2</title>
+      <link>https://choongyul.github.io/2020/09/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A1%A0-day2/</link>
+      <pubDate>Mon, 28 Sep 2020 06:27:11 +0900</pubDate>
+      
+      <guid>https://choongyul.github.io/2020/09/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A1%A0-day2/</guid>
+      <description>소프트웨어  사람이 만들고 컴퓨터가 실행한다.  컴퓨터 언어 계층  컴퓨터 언어는 계층 구조를 가지고 있다. 컴파일러라는 소프트웨어가 상위언어에서 하위언어로 변경하여 컴퓨터가 프로그램을 실행할 수 있게 해준다.  컴파일 주요원칙 Compositional 하다  작은 단위로 구문을 해석한 다음 합치는 방법을 채택한다. 글을 쓰는 것과 같이, 문장을 번역해서 문단을 만들고 문단을 을 모아 챕터를 만들고 결국 책을 만드는 것과 같다.  Invariant 하다.  A는 항상 A이다. 정황에 따라 뜻이 변경되지 않는다는 뜻이다.</description>
+    </item>
     
     <item>
       <title>프로그래밍 언어론 - Day1</title>
