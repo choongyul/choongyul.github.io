@@ -6,10 +6,20 @@
     <description>Recent content on 나의 경험을 기록하는 공간</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Tue, 06 Oct 2020 05:31:23 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 05:48:14 +0900</lastBuildDate>
     
 	<atom:link href="https://choongyul.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>P프로그래밍 언어론 - Day4</title>
+      <link>https://choongyul.github.io/2020/10/p%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A1%A0-day4/</link>
+      <pubDate>Thu, 08 Oct 2020 05:48:14 +0900</pubDate>
+      
+      <guid>https://choongyul.github.io/2020/10/p%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A1%A0-day4/</guid>
+      <description>프로그래밍 언어의 발전 수학자들의 연구가 프로그래밍 언어의 시초가 되었다는 말은 우리가 알고 있는 어셈플러, C, JAVA와 같은 언어의 형식에 영향을 미쳤다는 말이 아니다. 그들은 어떻게하면 컴퓨터를 이용하여 문제를 풀수 있을지 고민했다. 수학자들의 고뇌는 원시적 재귀 함수, 람다 계산식, While-Programming 과 같은 개념을 만들었다. 프로그래밍 언어의 구문보다는 알고리즘에 영향을 미쳤다고 하는 편이 맞다.
+1945년, 존 폰노이만과 동료들이 컴퓨터 아키텍처 구조를 확립하고 부터 컴퓨터에서 2진법 체계가 도입되었다. 컴퓨터는 전자 장치였고 전자신호는 신호가 들어왔다(1) 신호과 들어오지 않았다(0) 단 두개 뿐이 었기때문에 어쩔 수 없는 선택이었다.</description>
+    </item>
     
     <item>
       <title>프로그래밍 언어론 - Day3</title>
@@ -17,8 +27,8 @@
       <pubDate>Tue, 06 Oct 2020 05:31:23 +0900</pubDate>
       
       <guid>https://choongyul.github.io/2020/10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A1%A0-day3/</guid>
-      <description>컴파일러 : 해석 방식에 따른 프로그래밍 언어의 분류 프로그래밍 언어의 탄생 고대부터 수학자들은 반복 연산을 자동화하고 싶은 마음이 있었다. 하지만 주판 이외에는 사칙연산에 도움을 줄만한 도구는 없었다. 오랜 염원에 비해 꽤나 늦게 기술은 발전하였다. 17세기가 되어서야 기계식 수동 계산기가 발명되었고 19세기가 되어서야 찰스 배비지에 의해 자동계산기에 대한 개념이 수립하였다. 찰스 배비지는
- 수를 저장하는 장치 저장된 수치 간의 계산을 하는 장치 기계의 동작을 제어하는 장치 입출력 장치  로 이루어진 기계를 제안했는데 이는 현대의 컴퓨터의 주요 요소를 모두 갖춘 것이었다.</description>
+      <description>프로그래밍 언어의 탄생 고대부터 수학자들은 반복 연산을 자동화하고 싶었다. 하지만 주판 이외에는 사칙연산에 도움을 줄만한 도구는 없었다. 오랜 염원에 비해 꽤나 늦게 기술은 발전했다. 17세기가 되어서야 기계식 수동 계산기가 발명되었고 19세기가 되어서야 찰스 배비지에 의해 자동계산기에 대한 개념이 수립하였다. 찰스 배비지가 제안한 계산기는 4가지 주요 장치로 구성되어 있다.
+ 수를 저장하는 장치 저장된 수치 간의 계산을 하는 장치 기계의 동작을 제어하는 장치 입출력 장치  이는 현대의 컴퓨터의 주요 요소를 모두 갖춘 것이었다.</description>
     </item>
     
     <item>
