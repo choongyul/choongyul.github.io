@@ -6,10 +6,20 @@
     <description>Recent content in Posts on 나의 경험을 기록하는 공간</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 08 Oct 2020 05:48:14 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 05:47:59 +0900</lastBuildDate>
     
 	<atom:link href="https://choongyul.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>프로그래밍 언어론 - Day5</title>
+      <link>https://choongyul.github.io/2020/10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A1%A0-day5/</link>
+      <pubDate>Tue, 13 Oct 2020 05:47:59 +0900</pubDate>
+      
+      <guid>https://choongyul.github.io/2020/10/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4%EB%A1%A0-day5/</guid>
+      <description>프로그래밍 언어론을 배워야 하는 이유 새로운 언어를 쉽게 배울 수 있다. 새로운 프로그래밍 언어를 학습하는 능력을 향상시키는 간단한 방법은 여러개의 언어를 배우는 것이다. 여러 언어를 배우면 새로운 언어에 익숙해 지는 시간은 서서히 줄어 들것이다. 그리고 언어의 차이란 단지 Syntax의 차이라고 생각할 것이다. 절차적 프로그래밍에 익숙한 C개발자가 FORTRAN, BASIC을 쉽게 학습하는 것에 빚대어 말이다.
+정말 언어를 배우는 건 문법의 차이에 익숙해 지는 일일까? 우리는 같은 범주에 있는 언어를 배우며 스스로를 너무 높게 평가하는 것이 아닌지 생각해 보아야 한다.</description>
+    </item>
     
     <item>
       <title>프로그래밍 언어론 - Day4</title>
